@@ -5,9 +5,11 @@
 ## Usage
 
 ```sh
-brew tap wakamex/tap
+brew install wakamex/tap/wsh
 brew install --cask wakamex/tap/wakterm
 ```
+
+[Wsh](https://github.com/wakamex/wsh) is a Zsh with built-in autosuggestions, highlighting, history search and fast prompts. Its formula builds from the release's source archive, which takes a few minutes.
 
 ## License
 
